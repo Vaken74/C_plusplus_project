@@ -1,5 +1,5 @@
 /*
-This is code a final project Robotic snowblower. By using an Arduino microcontroller.
+This is code of a final project Robotic snowblower. By using an Arduino microcontroller.
 A microcontroller used to control a robotic snowblower when it is running in the robotic mode. In that mode the user needs to define a length and the width of the area to work on. After that the user press a start button. The snowblower will run on predefined area on the zigzag pattern. While its running it does a u-turns of the machine and turn the chute at the same time as the snow pile needed to be on the one side of the area only.
  */
 
